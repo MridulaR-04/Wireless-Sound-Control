@@ -1,0 +1,5 @@
+opencv-python = 4.8.1
+numpy
+mediapipe
+pycaw
+comtypes
